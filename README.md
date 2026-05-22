@@ -1,6 +1,8 @@
 # Pizza Shop Sales Analysis Power BI Project
 
 ![Dashboard Screenshot](dashboard.png)
+## data file
+[View data file](https://docs.google.com/spreadsheets/d/1Rb75XYDucsCnSfYjqG3Dkas5dkIZc6m6S0gvhdSKBNs/edit?gid=1117405085#gid=1117405085)
 # Project Overview  
 This project analyzes 1 year of pizza shop sales data to understand the reason behind declining revenue and identify opportunities for business improvement using data-driven insights and Power BI visualization. The main objective is to improve sales performance, customer satisfaction, and operational efficiency.
 
