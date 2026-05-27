@@ -1,6 +1,6 @@
 # Pizza Shop Sales Analysis Power BI Project
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 ## data file
 [View data file](https://docs.google.com/spreadsheets/d/1Q5hBQU_oq9v67b1tCMFkiqfWfdyb75USOcLqR3yG1Sc/edit?usp=drive_link)
 # Project Overview  
